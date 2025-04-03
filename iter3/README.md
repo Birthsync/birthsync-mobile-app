@@ -1,16 +1,14 @@
-# birthsync
+Итоговый MVP:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Реализована страница контактов (знакомых):
+    - также добавление оных;
+    - редактирование оных (зажатие);
+2. Реализованы все виджеты и подобные;
+    - в т.ч. и папки, категории;
+    - разделение на несколько родов виджетов:
+        - виджет-тайлы (изображения, тексты и т.п.) - маленькие виджеты;
+        - виджет-папки;
+        - виджет-категории;
+        - виджет-спейсы: большие виджеты с шириной на весь экран;
+3. Редактирование виджетов, перемещения их и т.п., взаимодействие с ними, добавление в папки;
+4. Добавление новых виджетов;
